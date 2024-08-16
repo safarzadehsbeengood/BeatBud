@@ -3,6 +3,7 @@ bin/
 pyvenv.cfg
 lib64
 include/
+share/
 
 # Audio files
 307_-_veronica_prodby47.mp3
