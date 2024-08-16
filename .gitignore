@@ -3,6 +3,9 @@ bin/
 pyvenv.cfg
 lib64
 
+# Audio files
+307_-_veronica_prodby47.mp3
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
